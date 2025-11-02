@@ -7,7 +7,7 @@ func Name() string {
 }
 
 func VersionNumber() string {
-	return "1.0.0"
+	return "1.0.1"
 }
 
 func Version() string {
