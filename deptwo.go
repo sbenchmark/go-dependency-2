@@ -1,6 +1,6 @@
 package deptwo
 
-import depone "github.com/wk-mausketier/go-dependency-1"
+import depone "github.com/sbenchmark/go-dependency-1"
 
 func Name() string {
 	return "io.github.sbenchmark:go-dependency-2"
